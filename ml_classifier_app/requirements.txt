@@ -2,3 +2,12 @@ Flask==2.2.5
 ultralytics
 onnxruntime
 pyngrok
+pytesseract
+opencv-python
+numpy
+python-dotenv
+uuid
+
+# Tesseract OCR Engine (system dependency)
+# Note: You'll need to install this separately on your system:
+# - Ubuntu: !sudo apt install tesseract-ocr libtesseract-dev
